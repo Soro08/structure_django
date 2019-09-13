@@ -1,6 +1,7 @@
 # structure_django
 Structure de projet django
 
+```bash
 
 assets/
 ├── images/  
@@ -10,3 +11,6 @@ assets/
 │   │   ...
 │   │
 │   │ 
+
+
+```
