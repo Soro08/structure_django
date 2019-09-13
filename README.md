@@ -3,7 +3,7 @@ Structure de projet django
 
 ```bash
 
-structure_django/
+structure_django/  
 ├─────────────── structure_django/  
 │                ├── __inti__.py
 │                ├── settings.py
@@ -15,7 +15,6 @@ structure_django/
 │                ├── ....js  
 │                ├── ....* 
 ├─────────────── templates/  
-│
 │                ├── bases/  
 │                │    ├── home_base.html
 │                │    ├── page_base.html
