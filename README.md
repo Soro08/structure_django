@@ -22,3 +22,4 @@ structure_django/
 │                │    ├── index.html
 │                │    ├── ....html
 ```
+
